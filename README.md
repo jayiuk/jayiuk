@@ -1,4 +1,15 @@
 ## Hi there 👋
+## 자연어처리를 공부중인 대학생입니다
+## :metal: interested :metal:
+|![Static Badge](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=social&logo=pytorch&logoColor=red)
+![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=social&logo=tensorflow&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/Tableau-3776AB?style=social&logo=tableau&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Langchain-000000?style=social&logo=langchain&logoColor=black)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-000000?style=social&logo=c%2B%2B&logoColor=black)
+
+## contact
+jayiuk987@gmail.com
 
 <!--
 **jayiuk/jayiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
