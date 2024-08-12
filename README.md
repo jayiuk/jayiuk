@@ -11,6 +11,8 @@
 ## contact
 jayiuk987@gmail.com
 
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=jayiuk&layout=compact">
+
 <!--
 **jayiuk/jayiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
