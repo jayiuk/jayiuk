@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=social&logo=tensorflow&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Tableau-3776AB?style=social&logo=tableau&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Langchain-000000?style=social&logo=langchain&logoColor=black)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-000000?style=social&logo=c%2B%2B&logoColor=blue&color=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-000000?style=social&logo=C%2B%2B&logoColor=black&color=white)
 
 ## contact
 jayiuk987@gmail.com
